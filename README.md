@@ -24,6 +24,7 @@ FILES INCLUDED
 - QuizTaskClass.h / QuizTaskImp.cpp
 - ExamTaskClass.h / ExamTaskImp.cpp
 - Enums.h
+- README.md
 
 ------------------------------------------------------------
 BUILD / COMPILE INSTRUCTIONS
