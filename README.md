@@ -15,7 +15,7 @@ priority level, and completion status.
 ------------------------------------------------------------
 FILES INCLUDED
 ------------------------------------------------------------
-- main.cpp
+- Main.cpp
 - PlannerClass.h / PlannerImp.cpp
 - TaskClass.h / TaskImp.cpp
 - ReadingTaskClass.h / ReadingTaskImp.cpp
